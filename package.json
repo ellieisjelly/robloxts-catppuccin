@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/catppuccin",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Brings the catppuccin color pallete to Roblox!",
 	"main": "out/init.lua",
 	"scripts": {

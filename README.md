@@ -786,3 +786,22 @@ Comes in 4 flavors:
 	</tr>
 </table>
 </details>
+
+# Example:
+
+```ts
+import Roact from "@rbxts/roact";
+import { Mocha } from "@rbxts/catppuccin";
+import { Players } from "@rbxts/services";
+Roact.mount(
+	<screengui>
+		<textlabel
+			Size={UDim2.fromScale(0.1, 0.1)}
+			BackgroundColor3={Mocha.Base}
+			TextColor3={Mocha.Text}
+			Text={"My Catppuccin UI!"}
+		></textlabel>
+	</screengui>,
+	Players.LocalPlayer.WaitForChild("PlayerGui"),
+);
+```
