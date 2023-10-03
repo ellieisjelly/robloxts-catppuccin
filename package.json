@@ -9,6 +9,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"keywords": [],
+	"repository": "https://github.com/ellieisjelly/robloxts-catppuccin",
 	"author": "ellieisjelly",
 	"license": "MIT",
 	"types": "out/index.d.ts",
