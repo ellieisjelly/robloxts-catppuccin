@@ -6,6 +6,7 @@
 </h3>
 Your favorite color theme, brought to roblox!  
 Comes in 4 flavors:
+
 <details>
 <summary>🌻 Latte</summary>
 <table>
